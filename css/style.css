@@ -1,0 +1,1512 @@
+.slide {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.slide .div {
+  background-color: #000000;
+  width: 1920px;
+  height: 10150px;
+  position: relative;
+}
+
+.slide .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 2192px;
+  top: 0;
+  left: 0;
+}
+
+.slide .element {
+  position: absolute;
+  width: 1920px;
+  height: 1081px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .text-wrapper {
+  position: absolute;
+  width: 636px;
+  top: 465px;
+  left: 324px;
+  font-family: "Pretendard-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 140px;
+  letter-spacing: 0;
+  line-height: 168px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-2 {
+  position: absolute;
+  width: 450px;
+  top: 390px;
+  left: 324px;
+  font-family: "Pretendard-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 100px;
+  white-space: nowrap;
+}
+
+.slide .p {
+  position: absolute;
+  width: 516px;
+  top: 612px;
+  left: 324px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33px;
+}
+
+.slide .span {
+  font-weight: 500;
+}
+
+.slide .text-wrapper-3 {
+  font-family: "Pretendard Variable-Regular", Helvetica;
+}
+
+.slide .img {
+  position: absolute;
+  width: 1920px;
+  height: 1112px;
+  top: 1080px;
+  left: 0;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-4 {
+  position: absolute;
+  top: 1341px;
+  left: 1175px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: 120px;
+  white-space: nowrap;
+}
+
+.slide .div-2 {
+  position: absolute;
+  width: 536px;
+  top: 1488px;
+  left: 1175px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 10px;
+}
+
+.slide .text-wrapper-5 {
+  font-weight: 700;
+  color: #ff6a00;
+  line-height: 32px;
+}
+
+.slide .text-wrapper-6 {
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  color: #ffffff;
+  line-height: 32px;
+}
+
+.slide .text-wrapper-7 {
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 17px;
+  line-height: 28.8px;
+}
+
+.slide .text-wrapper-8 {
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 32px;
+}
+
+.slide .text-wrapper-9 {
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 14.4px;
+}
+
+.slide .text-wrapper-10 {
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.slide .vector {
+  position: absolute;
+  width: 536px;
+  height: 469px;
+  top: 1469px;
+  left: 1175px;
+}
+
+.slide .overlap-group {
+  position: absolute;
+  width: 773px;
+  height: 480px;
+  top: 2565px;
+  left: 153px;
+  background-image: url(./img/ntr202205090005-680x-0.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.slide .text-wrapper-11 {
+  position: absolute;
+  top: 314px;
+  left: 34px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-12 {
+  position: absolute;
+  width: 704px;
+  top: 350px;
+  left: 34px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.slide .overlap-2 {
+  position: absolute;
+  width: 773px;
+  height: 480px;
+  top: 3103px;
+  left: 153px;
+  background-image: url(./img/c679b3e4-0306-422c-9ea7-27cdd059b03a.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.slide .text-wrapper-13 {
+  position: absolute;
+  top: 320px;
+  left: 34px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-14 {
+  position: absolute;
+  width: 704px;
+  height: 81px;
+  top: 369px;
+  left: 34px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.slide .overlap-3 {
+  position: absolute;
+  width: 773px;
+  height: 480px;
+  top: 3103px;
+  left: 995px;
+  background-image: url(./img/2022082116261711298-1661066777-0017393145.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.slide .text-wrapper-15 {
+  position: absolute;
+  width: 680px;
+  height: 81px;
+  top: 369px;
+  left: 34px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.slide .overlap-4 {
+  position: absolute;
+  width: 773px;
+  height: 480px;
+  top: 2565px;
+  left: 995px;
+  background-image: url(./img/240320-greenium-iceberg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.slide .text-wrapper-16 {
+  position: absolute;
+  top: 2242px;
+  left: 601px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: 120px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-17 {
+  position: absolute;
+  width: 628px;
+  top: 2382px;
+  left: 659px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.slide .text-wrapper-18 {
+  position: absolute;
+  top: 3698px;
+  left: 160px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: 120px;
+  white-space: nowrap;
+}
+
+.slide .overlap-5 {
+  position: absolute;
+  width: 496px;
+  height: 1317px;
+  top: 4342px;
+  left: 944px;
+  background-image: url(./img/7865-8859-314.png);
+  background-size: 100% 100%;
+}
+
+.slide .text-wrapper-19 {
+  position: absolute;
+  top: 947px;
+  left: 65px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ff6a00;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 100px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-20 {
+  position: absolute;
+  width: 404px;
+  top: 1021px;
+  left: 63px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.slide .overlap-6 {
+  position: absolute;
+  width: 480px;
+  height: 1317px;
+  top: 4342px;
+  left: 1440px;
+  background-image: url(./img/31073-55763-506.png);
+  background-size: 100% 100%;
+}
+
+.slide .text-wrapper-21 {
+  position: absolute;
+  top: 947px;
+  left: 43px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ff6a00;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 100px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-22 {
+  position: absolute;
+  width: 404px;
+  top: 1021px;
+  left: 38px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.slide .overlap-7 {
+  position: absolute;
+  width: 944px;
+  height: 1317px;
+  top: 4342px;
+  left: 0;
+}
+
+.slide .img-2 {
+  position: absolute;
+  width: 480px;
+  height: 1317px;
+  top: 0;
+  left: 0;
+}
+
+.slide .element-2 {
+  position: absolute;
+  width: 464px;
+  height: 1317px;
+  top: 0;
+  left: 480px;
+}
+
+.slide .text-wrapper-23 {
+  position: absolute;
+  top: 119px;
+  left: 95px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: 120px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-24 {
+  position: absolute;
+  top: 947px;
+  left: 526px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ff6a00;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 100px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-25 {
+  position: absolute;
+  width: 404px;
+  top: 1016px;
+  left: 44px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.slide .text-wrapper-26 {
+  position: absolute;
+  width: 404px;
+  top: 1021px;
+  left: 526px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.slide .text-wrapper-27 {
+  position: absolute;
+  width: 445px;
+  top: 5792px;
+  left: 120px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: 110px;
+}
+
+.slide .UNHCR {
+  position: absolute;
+  width: 1263px;
+  top: 5777px;
+  left: 528px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.slide .text-wrapper-28 {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.slide .overlap-8 {
+  position: absolute;
+  width: 389px;
+  height: 423px;
+  top: 6063px;
+  left: 979px;
+}
+
+.slide .rectangle {
+  position: absolute;
+  width: 389px;
+  height: 404px;
+  top: 19px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 17px;
+}
+
+.slide .element-global-compact {
+  position: absolute;
+  width: 310px;
+  top: 306px;
+  left: 41px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.slide .text-wrapper-29 {
+  position: absolute;
+  width: 334px;
+  top: 294px;
+  left: 28px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.slide .png-transparent {
+  position: absolute;
+  width: 250px;
+  height: 272px;
+  top: 0;
+  left: 70px;
+  object-fit: cover;
+}
+
+.slide .overlap-9 {
+  position: absolute;
+  width: 389px;
+  height: 404px;
+  top: 6082px;
+  left: 551px;
+  background-color: #ffffff;
+  border-radius: 17px;
+}
+
+.slide .text-wrapper-30 {
+  position: absolute;
+  top: 275px;
+  left: 85px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.slide .png-transparent-2 {
+  position: absolute;
+  width: 680px;
+  height: 150px;
+  top: 22px;
+  left: -142px;
+}
+
+.slide .text-wrapper-31 {
+  position: absolute;
+  width: 300px;
+  top: 290px;
+  left: 45px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.slide .overlap-10 {
+  position: absolute;
+  width: 389px;
+  height: 404px;
+  top: 6082px;
+  left: 123px;
+  background-color: #ffffff;
+  border-radius: 17px;
+}
+
+.slide .png-transparent-3 {
+  position: absolute;
+  width: 177px;
+  height: 183px;
+  top: 33px;
+  left: 106px;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-32 {
+  position: absolute;
+  width: 297px;
+  top: 290px;
+  left: 43px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.slide .text-wrapper-33 {
+  position: absolute;
+  top: 275px;
+  left: 100px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.slide .overlap-11 {
+  position: absolute;
+  width: 389px;
+  height: 404px;
+  top: 6082px;
+  left: 1407px;
+  background-color: #ffffff;
+  border-radius: 17px;
+}
+
+.slide .l {
+  position: absolute;
+  width: 285px;
+  height: 198px;
+  top: 21px;
+  left: 52px;
+  object-fit: cover;
+}
+
+.slide .text-wrapper-34 {
+  position: absolute;
+  width: 322px;
+  top: 303px;
+  left: 34px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.slide .text-wrapper-35 {
+  position: absolute;
+  width: 227px;
+  top: 275px;
+  left: 81px;
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-36 {
+  position: absolute;
+  top: 6660px;
+  left: 163px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: 120px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-37 {
+  position: absolute;
+  top: 7655px;
+  left: 238px;
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 75px;
+  letter-spacing: 0;
+  line-height: 120px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-38 {
+  position: absolute;
+  width: 1068px;
+  top: 7647px;
+  left: 628px;
+  font-family: "Pretendard Variable-Light", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 37px;
+}
+
+.slide .text-wrapper-39 {
+  position: absolute;
+  top: 7913px;
+  left: 975px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.slide .div-3 {
+  position: absolute;
+  width: 500px;
+  top: 7884px;
+  left: 1179px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.slide .text-wrapper-40 {
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-size: 20px;
+}
+
+.slide .text-wrapper-41 {
+  position: absolute;
+  width: 122px;
+  top: 8173px;
+  left: 775px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 36px;
+  text-align: right;
+}
+
+.slide .SNS {
+  position: absolute;
+  width: 513px;
+  top: 8146px;
+  left: 240px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.slide .text-wrapper-42 {
+  position: absolute;
+  top: 8437px;
+  left: 975px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 32px;
+  letter-spacing: -1.92px;
+  line-height: 36px;
+}
+
+.slide .div-4 {
+  position: absolute;
+  width: 580px;
+  top: 8415px;
+  left: 1113px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.slide .text-wrapper-43 {
+  position: absolute;
+  width: 122pxs;
+  top: 8699px;
+  left: 775px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 36px;
+  text-align: right;
+}
+
+.slide .UNHCR-GCF {
+  position: absolute;
+  width: 527px;
+  top: 8667px;
+  left: 222px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.slide .div-5 {
+  position: absolute;
+  width: 896px;
+  top: 6886px;
+  left: 163px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.slide .text-wrapper-44 {
+  color: #ffffff;
+  line-height: 43px;
+}
+
+.slide .text-wrapper-45 {
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff6a00;
+  font-size: 24px;
+  line-height: 43px;
+}
+
+.slide .text-wrapper-46 {
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 43px;
+}
+
+.slide .text-wrapper-47 {
+  color: #ffffff;
+  line-height: 20px;
+}
+
+.slide .overlap-12 {
+  position: absolute;
+  width: 27px;
+  height: 1019px;
+  top: 7925px;
+  left: 920px;
+}
+
+.slide .vector-2 {
+  position: absolute;
+  width: 2px;
+  height: 998px;
+  top: 21px;
+  left: 12px;
+}
+
+.slide .ellipse {
+  top: 0;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 13.5px;
+}
+
+.slide .ellipse-2 {
+  top: 259px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 13.5px;
+}
+
+.slide .ellipse-3 {
+  top: 518px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 13.5px;
+}
+
+.slide .ellipse-4 {
+  top: 777px;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 13.5px;
+}
+
+.slide .element-3 {
+  position: absolute;
+  width: 764px;
+  height: 528px;
+  top: 6916px;
+  left: 1156px;
+  object-fit: cover;
+}
+
+.slide .element-4 {
+  position: absolute;
+  top: 3797px;
+  left: 160px;
+  font-family: "Pretendard Variable-Regular", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 45px;
+  letter-spacing: -3px;
+  line-height: 91px;
+}
+
+.slide .text-wrapper-48 {
+  color: #ffffff;
+}
+
+.slide .text-wrapper-49 {
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ff6a00;
+  font-size: 75px;
+  letter-spacing: 0px; /* 글자 간격 */
+}
+
+.slide .text-wrapper-50 {
+  font-family: "Pretendard Variable-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ff6a00;
+}
+
+.slide .text-wrapper-51 {
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ff6a00;
+}
+
+.slide .overlap-13 {
+  position: absolute;
+  width: 813px;
+  height: 502px;
+  top: 3772px;
+  left: 1004px;
+}
+
+.slide .group {
+  position: absolute;
+  width: 196px;
+  height: 39px;
+  top: 93px;
+  left: 565px;
+}
+
+.slide .text-wrapper-52 {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 10px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-53 {
+  position: absolute;
+  top: 29px;
+  left: 46px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 10px;
+  white-space: nowrap;
+}
+
+.slide .vector-3 {
+  position: absolute;
+  width: 37px;
+  height: 2px;
+  top: 35px;
+  left: 0;
+}
+
+.slide .vector-4 {
+  position: absolute;
+  width: 38px;
+  height: 2px;
+  top: 4px;
+  left: 0;
+}
+
+.slide .element-5 {
+  position: absolute;
+  width: 850px;
+  height: 530px;
+  top: 20;
+  left: -34px;
+  object-fit: cover;
+}
+
+.slide .overlap-group-wrapper {
+  position: absolute;
+  width: 274px;
+  height: 49px;
+  top: 6520px;
+  left: 182px;
+}
+
+.slide .div-wrapper {
+  position: relative;
+  width: 272px;
+  height: 49px;
+  background-color: #ff6a00;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.slide .text-wrapper-54 {
+  position: absolute;
+  top: 17px;
+  left: 75px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.slide .overlap-wrapper {
+  position: absolute;
+  width: 274px;
+  height: 49px;
+  top: 6520px;
+  left: 610px;
+}
+
+.slide .text-wrapper-55 {
+  position: absolute;
+  top: 17px;
+  left: 78px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.slide .group-2 {
+  position: absolute;
+  width: 274px;
+  height: 49px;
+  top: 6520px;
+  left: 1038px;
+}
+
+.slide .group-3 {
+  position: absolute;
+  width: 274px;
+  height: 49px;
+  top: 6520px;
+  left: 1466px;
+}
+
+.slide .overlap-14 {
+  position: absolute;
+  width: 1920px;
+  height: 904px;
+  top: 9124px;
+  left: 0;
+  background-image: url(./img/image.png);
+  background-size: 100% 100%;
+}
+
+.slide .div-6 {
+  position: absolute;
+  top: 261px;
+  left: 734px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 86px;
+}
+
+.slide .text-wrapper-56 {
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: -3px; /* 글자 간격 */
+  color: #ffffff;
+}
+
+.slide .text-wrapper-57 {
+  font-family: "Pretendard Variable-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+}
+
+.slide .group-4 {
+  position: absolute;
+  width: 247px;
+  height: 75px;
+  top: 630px;
+  left: 734px;
+}
+
+.slide .overlap-15 {
+  position: relative;
+  width: 245px;
+  height: 75px;
+  background-color: #ff6a00;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.slide .text-wrapper-58 {
+  position: absolute;
+  top: 9px;
+  left: 21px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 57px;
+  white-space: nowrap;
+}
+
+.slide .group-5 {
+  position: absolute;
+  width: 247px;
+  height: 75px;
+  top: 630px;
+  left: 1008px;
+}
+
+.slide .overlap-16 {
+  position: relative;
+  width: 245px;
+  height: 75px;
+  background-color: #969696;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.slide .text-wrapper-59 {
+  position: absolute;
+  top: 9px;
+  left: 34px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 57px;
+  white-space: nowrap;
+}
+
+.slide .text-wrapper-60 {
+  position: absolute;
+  top: 10060px;
+  left: 424px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff80;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 57px;
+  white-space: nowrap;
+}
+
+.image-container {
+  position: relative; /* 그라데이션과 이미지를 겹치게 하려고 사용 */
+  display: inline-block; /* 필요한 크기만큼 컨테이너 크기 조정 */
+}
+
+.image {
+  display: block; /* 이미지가 다른 요소와 겹치지 않도록 */
+  width: 100%; /* 이미지를 컨테이너 크기에 맞게 */
+  height: auto; /* 이미지 비율 유지 */
+}
+
+.image-container::after {
+  content: ""; /* 빈 레이어를 추가 */
+  position: absolute; /* 부모 요소에 겹치도록 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.8)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 레이어가 클릭 이벤트를 막지 않도록 */
+}
+
+/* 이미지 컨테이너 스타일 */
+.image1-container {
+  position: relative; /* 이미지와 그라데이션 레이어를 겹치기 위한 상대 위치 */
+  width: 100%;
+  height: 500px; /* 컨테이너 높이 */
+  overflow: hidden; /* 넘침 방지 */
+}
+
+/* 배경 이미지 */
+.background-image1 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 이미지 비율 유지하며 채우기 */
+}
+
+/* 그라데이션 효과 추가 */
+.image1-container::after {
+  content: ""; /* 비어있는 레이어 추가 */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.8)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 클릭 이벤트 방지 */
+}
+/* 공통 컨테이너 스타일 */
+.overlap-group,
+.overlap-2,
+.overlap-3,
+.overlap-4 {
+  position: relative; /* 자식 요소들을 겹치게 하기 위한 설정 */
+  width: 100%; /* 컨테이너 너비 */
+  height: 500px; /* 높이는 필요에 따라 설정 */
+  overflow: hidden; /* 넘치는 내용 숨기기 */
+}
+
+/* 이미지 컨테이너 스타일 */
+.image1-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.background-image1 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 비율 유지하며 채우기 */
+  z-index: 1; /* 이미지의 쌓임 순서 */
+}
+
+/* 텍스트 스타일 */
+.text-wrapper-11,
+.text-wrapper-12,
+.text-wrapper-13,
+.text-wrapper-14,
+.text-wrapper-15 {
+  position: absolute; /* 이미지 위로 텍스트 겹치기 */
+  z-index: 2; /* 이미지보다 위에 표시되도록 */
+  color: white; /* 기본 텍스트 색상 */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* 가독성을 위한 그림자 */
+  font-size: 20px; /* 텍스트 크기 */
+  padding: 10px; /* 텍스트 주변 여백 */
+}
+
+/* 제목 스타일 */
+.text-wrapper-11,
+.text-wrapper-13 {
+  top: 20px; /* 컨테이너 상단에서의 위치 */
+  left: 20px; /* 컨테이너 좌측에서의 위치 */
+  font-size: 20px; /* 제목 크기 */
+  font-weight: bold;
+}
+
+/* 본문 텍스트 스타일 */
+.text-wrapper-12,
+.text-wrapper-14,
+.text-wrapper-15 {
+  bottom: 20px; /* 컨테이너 하단에서의 위치 */
+  left: 20px;
+  right: 20px;
+  font-size: 18px; /* 본문 텍스트 크기 */
+  line-height: 1.5; /* 줄 간격 */
+  background: rgba(0, 0, 0, 0); /* 반투명 배경 */
+  border-radius: 8px; /* 배경 모서리 둥글게 */
+}
+
+.vertical-line {
+  width: 0;
+  height: 1000px; /* 선의 길이 */
+  border-left: 2px solid rgb(255, 255, 255); /* 세로 선의 스타일 */
+  position: absolute; /* 절대 위치 지정 */
+  top: -55px; /* 페이지 상단으로부터 50px 아래에 위치 */
+  left: 11px; /* 페이지 왼쪽으로부터 100px 오른쪽에 위치 */
+}
+
+.image4-container {
+  position: relative; /* 그라데이션과 이미지를 겹치게 하려고 사용 */
+  display: inline-block; /* 필요한 크기만큼 컨테이너 크기 조정 */
+}
+
+.image4 {
+  display: block; /* 이미지가 다른 요소와 겹치지 않도록 */
+  width: 100%; /* 이미지를 컨테이너 크기에 맞게 */
+  height: auto; /* 이미지 비율 유지 */
+}
+
+.image4-container::after {
+  content: ""; /* 빈 레이어를 추가 */
+  position: absolute; /* 부모 요소에 겹치도록 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.7)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 레이어가 클릭 이벤트를 막지 않도록 */
+}
+
+.image5-container {
+  position: relative; /* 그라데이션과 이미지를 겹치게 하려고 사용 */
+  display: inline-block; /* 필요한 크기만큼 컨테이너 크기 조정 */
+}
+
+.image5 {
+  display: block; /* 이미지가 다른 요소와 겹치지 않도록 */
+  width: 100%; /* 이미지를 컨테이너 크기에 맞게 */
+  height: auto; /* 이미지 비율 유지 */
+}
+
+.image5-container::after {
+  content: ""; /* 빈 레이어를 추가 */
+  position: absolute; /* 부모 요소에 겹치도록 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.7)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 레이어가 클릭 이벤트를 막지 않도록 */
+}
+
+.image6-container {
+  position: relative; /* 그라데이션과 이미지를 겹치게 하려고 사용 */
+  display: inline-block; /* 필요한 크기만큼 컨테이너 크기 조정 */
+}
+
+.image6 {
+  display: block; /* 이미지가 다른 요소와 겹치지 않도록 */
+  width: 100%; /* 이미지를 컨테이너 크기에 맞게 */
+  height: auto; /* 이미지 비율 유지 */
+}
+
+.image6-container::after {
+  content: ""; /* 빈 레이어를 추가 */
+  position: absolute; /* 부모 요소에 겹치도록 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.7)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 레이어가 클릭 이벤트를 막지 않도록 */
+}
+
+.image8-container {
+  position: relative; /* 그라데이션과 이미지를 겹치게 하려고 사용 */
+  display: inline-block; /* 필요한 크기만큼 컨테이너 크기 조정 */
+}
+
+.image8 {
+  display: block; /* 이미지가 다른 요소와 겹치지 않도록 */
+  width: 100%; /* 이미지를 컨테이너 크기에 맞게 */
+  height: auto; /* 이미지 비율 유지 */
+}
+
+.image8-container::after {
+  content: ""; /* 빈 레이어를 추가 */
+  position: absolute; /* 부모 요소에 겹치도록 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.7)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 레이어가 클릭 이벤트를 막지 않도록 */
+}
+.image9-container {
+  position: relative; /* 그라데이션과 이미지를 겹치게 하려고 사용 */
+  display: inline-block; /* 필요한 크기만큼 컨테이너 크기 조정 */
+}
+
+.image9 {
+  display: block; /* 이미지가 다른 요소와 겹치지 않도록 */
+  width: 100%; /* 이미지를 컨테이너 크기에 맞게 */
+  height: auto; /* 이미지 비율 유지 */
+}
+
+.image9-container::after {
+  content: ""; /* 빈 레이어를 추가 */
+  position: absolute; /* 부모 요소에 겹치도록 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.7)
+  ); /* 검정색 그라데이션 */
+  pointer-events: none; /* 레이어가 클릭 이벤트를 막지 않도록 */
+}
+
+.line1 {
+  position: absolute;
+  top: 1488px; /* 세로 중앙 위치 (조절 가능) */
+  left: 1176px; /* 왼쪽 시작점 */
+  width: 534px; /* 가로 길이: 이미지 전체 */
+  height: 1px; /* 선 두께 */
+  background-color: white; /* 선 색상 */
+}
+.line2 {
+  position: absolute;
+  top: 1956px; /* 세로 중앙 위치 (조절 가능) */
+  left: 1176px; /* 왼쪽 시작점 */
+  width: 534px; /* 가로 길이: 이미지 전체 */
+  height: 1px; /* 선 두께 */
+  background-color: white; /* 선 색상 */
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
